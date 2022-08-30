@@ -1,0 +1,123 @@
+{
+    "mdonya": [
+        {
+            "type": "close",
+            "value": 6000
+        }
+    ],
+    "monday": [
+        {
+            "type": "close",
+            "value": 6000
+        }
+    ],
+    "tuesday": [
+        {
+            "type": "close",
+            "value": 64800
+        },
+        {
+            "type": "open",
+            "value": 36000
+        },
+        {
+            "type": "close",
+            "value": 40001
+        },
+        {
+            "type": "close",
+            "value": 50000
+        },
+        {
+            "type": "open",
+            "value": 60000
+        },
+        {
+            "tpy": "close",
+            "value": 40000
+        },
+        {
+            "type": "colace",
+            "value": 40000
+        },
+        {
+            "type": "close",
+            "vaule": 50000
+        },
+        {
+            "type": "close",
+            "value": -1
+        },
+        {
+            "type": "close",
+            "value": 900000
+        },
+        {
+            "type": "close",
+            "value": "@@@"
+        },
+        {
+            "type": 123456,
+            "value": 10000
+        },
+        {
+            "type": "open",
+            "value": [
+                1,
+                2
+            ]
+        },
+        {
+            "oops": 123,
+            "foo": "bar"
+        },
+        {}
+    ],
+    "wednesday": [],
+    "friday": [
+        {
+            "type": "open",
+            "value": 36000
+        },
+        {
+            "type": "open",
+            "value": 36000
+        },
+        {
+            "type": "open",
+            "value": 40000
+        }
+    ],
+    "saturday": [
+        {
+            "type": "close",
+            "value": 3600
+        },
+        {
+            "type": "open",
+            "value": 36000
+        }
+    ],
+    "sunday": [
+        {
+            "type": "close",
+            "value": 3600
+        },
+        {
+            "type": "open",
+            "value": 43200
+        },
+        {
+            "type": "open",
+            "value": 43200
+        },
+        {
+            "type": "close",
+            "value": 75600
+        },
+        {
+            "type": "open",
+            "value": 85950
+        }
+    ]
+}

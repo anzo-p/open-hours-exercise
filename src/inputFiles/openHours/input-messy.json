@@ -74,6 +74,16 @@
         {}
     ],
     "wednesday": [],
+    "saturday": [
+        {
+            "type": "close",
+            "value": 3600
+        },
+        {
+            "type": "open",
+            "value": 36000
+        }
+    ],
     "friday": [
         {
             "type": "open",
@@ -86,16 +96,6 @@
         {
             "type": "open",
             "value": 40000
-        }
-    ],
-    "saturday": [
-        {
-            "type": "close",
-            "value": 3600
-        },
-        {
-            "type": "open",
-            "value": 36000
         }
     ],
     "sunday": [

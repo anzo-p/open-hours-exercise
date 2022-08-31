@@ -48,7 +48,7 @@ export const secondsToTime = (secondsSinceMidnight: number): string => {
   const minutes = secTime.getUTCMinutes();
   const ampm = (hours >= 12) ? "PM" : "AM";
   const showHours = ((hours % 12 === 0) ? 12 : hours % 12).toString();
-  const showMinutes = (minutes > 0) ? minutes.toString(): ""
+  const showMinutes = (minutes > 0) ? minutes.toString().padStart(2, '0'): ""
   const timeStr = (showHours + " " + showMinutes + " " + ampm).replace(/ +/g, " ")
 
   return timeStr;
